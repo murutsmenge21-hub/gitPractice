@@ -1,0 +1,29 @@
+.yellow {
+	background-color: yellow;
+}
+
+.red {
+	background-color: rgb(255, 76, 76);
+}
+
+.blue {
+	background-color: rgb(15, 121, 235);
+	color: white;
+}
+
+button {
+	background-color: lightgray;
+	font-size: 20px;
+	padding: 5px 15px;
+}
+
+form input {
+	width: 30%;
+	padding: 10px;
+	font-size: 20px;
+}
+
+a {
+	font-size: 30px;
+	font-weight: 900;
+}
